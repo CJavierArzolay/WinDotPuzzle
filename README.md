@@ -1,3 +1,3 @@
 # WinDotPuzzle
-Config files for my GitHub profile.
-its just the same game that the another one but this time its in a window, pretty cool if you ask me 😎
+### A "name-that-i-don't-know" game but with gui.
+Its just the same game that the another one but this time its in a window, i'm also not very smart to add something else to this normal, and... **simple** readme
